@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=agstchndra812&color=blue)
-
 # 💫 About Me:
 Backend dev who enjoys debugging, optimizing queries,  <br>and making servers run smoother than coffee.
 
