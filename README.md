@@ -1,6 +1,8 @@
 # 💫 About Me:
 Backend dev who enjoys debugging, optimizing queries,  <br>and making servers run smoother than coffee.
 
+Saya adalah seorang yang suka dengan teknologi. Di SMK saya sangat suka coding dan sampai sekarang sudah menjadi hobi. Sebelumnya juga saya sudah mencoba menjadi Back-End Developer, saya sudah membuat lumayan banyak aplikasi berbasis web.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chndra.agst812) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@chndra.agst812) 
