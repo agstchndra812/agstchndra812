@@ -1,6 +1,4 @@
 # 💫 About Me:
-Backend dev who enjoys debugging, optimizing queries,  <br>and making servers run smoother than coffee.
-
 Saya adalah seorang yang suka dengan teknologi. Di SMK saya sangat suka coding dan sampai sekarang sudah menjadi hobi. Sebelumnya juga saya sudah mencoba menjadi Back-End Developer, saya sudah membuat lumayan banyak aplikasi berbasis web.
 
 
