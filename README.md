@@ -3,7 +3,7 @@ I’m a technology enthusiast with a strong passion for coding. Since my vocatio
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chndra.agst812) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@chndra.agst812)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chndra.agst812) 
 
 
 [![](https://visitcount.itsvg.in/api?id=agstchndra812&icon=0&color=0)](https://visitcount.itsvg.in)
