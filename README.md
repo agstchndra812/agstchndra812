@@ -34,8 +34,8 @@ But my love for technology doesn't stop at code. I also have a strong command of
 
 ## 📊 GitHub Stats
 
-![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chndra_agst812&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chndra_agst812&layout=compact&theme=radial)
+![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agstchndra812&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agstchndra812&layout=compact&theme=radial)
 
 ---
 
