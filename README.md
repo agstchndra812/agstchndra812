@@ -23,7 +23,7 @@ But my love for technology doesn't stop at code. I also have a strong command of
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shapes.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### ⚙️ Hardware & Interests
 *   **Custom PC Building:** Tailoring rigs for gaming, heavy workstations, or rendering setups.
@@ -34,8 +34,8 @@ But my love for technology doesn't stop at code. I also have a strong command of
 
 ## 📊 GitHub Stats
 
-![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
+![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chndra_agst812&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chndra_agst812&layout=compact&theme=radial)
 
 ---
 
@@ -43,5 +43,6 @@ But my love for technology doesn't stop at code. I also have a strong command of
 
 Let's talk about full-stack architectures, PC hardware setups, or trade anime/K-pop recommendations!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-rizki-chandra-agustian-105b23388)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chndra.agst812/)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-%232E51A2.svg?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/chndra_agst812)
