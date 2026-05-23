@@ -32,13 +32,6 @@ But my love for technology doesn't stop at code. I also have a strong command of
 
 ---
 
-## 📊 GitHub Stats
-
-![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agstchndra812&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agstchndra812&layout=compact&theme=radial)
-
----
-
 ## 📬 Connect with Me
 
 Let's talk about full-stack architectures, PC hardware setups, or trade anime/K-pop recommendations!
